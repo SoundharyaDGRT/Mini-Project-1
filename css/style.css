@@ -10,9 +10,7 @@ body {
 	-webkit-font-smoothing: antialiased;
 }
 
-body {
-	padding-left: 90px;
-}
+
 
 @media (max-width: 420px) {
 	body {
