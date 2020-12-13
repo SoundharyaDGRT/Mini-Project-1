@@ -243,11 +243,11 @@ ol {
 	transition: 0.4s;
 }
 
-/*@media (max-width: 420px) {
+@media (max-width: 420px) {
 	.menu-wrapper {
 		width: 60px;
 	}
-}*/
+}
 
 .menu-wrapper.hide-left {
 	opacity: 0;
@@ -317,12 +317,12 @@ ol {
 	transition: 0.3s;
 }
 
-/*@media (max-width: 420px) {
+@media (max-width: 420px) {
 	.side-menu-wrapper {
 		width: 100%;
 		left: -100%;
 	}
-}*/
+}
 
 .side-menu-wrapper.active {
 	left: 0;
